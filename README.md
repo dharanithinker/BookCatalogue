@@ -19,3 +19,6 @@ Singleton Design Pattern<br />
 Dependency Injection<br/>
 Repository Design Pattern<br />
 
+**DB Scripts attached with respective folder**<br/>
+Update connection strings in appsettings.json to perform test action
+
